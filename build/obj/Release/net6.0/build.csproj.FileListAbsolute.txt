@@ -1,0 +1,17 @@
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.exe
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.bat
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\buildBE.bat
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.deps.json
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.runtimeconfig.json
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.dll
+D:\Project\Drone\Tool\build\build\bin\Release\net6.0\build.pdb
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.csproj.AssemblyReference.cache
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.AssemblyInfoInputs.cache
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.AssemblyInfo.cs
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.csproj.CoreCompileInputs.cache
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.dll
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\refint\build.dll
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.pdb
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\build.genruntimeconfig.cache
+D:\Project\Drone\Tool\build\build\obj\Release\net6.0\ref\build.dll
